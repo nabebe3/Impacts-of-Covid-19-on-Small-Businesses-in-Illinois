@@ -1,6 +1,6 @@
 # Impacts-of-Covid-19-on-Small-Businesses-in-Illinois
 
-We are aware there are not many commits in this Github however we wanted to inform the TA or Instructors that we worked on Jupyter Notebook and Google Collab. Each of us individually worked on every aspect of this project and merged our work together.
+Each of us individually worked on every aspect of this project and merged our work together.
 
 We began by identifying our research questions and outlining the scope of the project. Each team member contributed to data collection and cleaning, which involved searching for and analyzing data sources related to small businesses impacted by the pandemic. We also worked together to develop a codebook and data dictionary to ensure consistency in our analysis.
 
